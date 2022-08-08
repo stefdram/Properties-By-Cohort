@@ -1,0 +1,17 @@
+{
+  "name": "properties-by-cohort",
+  "version": "1.0.0",
+  "description": "Summary",
+  "main": "json-parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^4.3.0",
+    "xlsx": "^0.18.5",
+    "xlsx-populate": "^1.21.0"
+  }
+}
