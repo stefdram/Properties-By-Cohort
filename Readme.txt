@@ -38,7 +38,7 @@ I have prepared a file propertiesByCohort.json with some data, and should be str
 
 Instructions:
 1.  Import the json file and use JSON.parse() to convert into a typical object readable by NodeJS.
-2.  Use ExcelJS (https://www.npmjs.com/package/exceljs) to create a cohort excel file (follow the cohort template)
+2.  Use XlsxJs (https://www.npmjs.com/package/xlsx) to create a cohort excel file (follow the cohort template)
 3.  Recommend three functions:
 	a.  createWorkbook
 	b.  createWorksheetAndTemplate
